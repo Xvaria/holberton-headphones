@@ -8,11 +8,11 @@ There are not a lot of instructions, we are free to implement it the way that we
 
 This is the [project](https://intranet.hbtn.io/rltoken/2ED3P1a2wnbQqRLi8aXJKw "project"). “Duplicate to your Drafts” to have access to all design details. Here the final result:
 
-![Images of the website](https://github.com/Xvaria/holberton-headphones/images/01_headphones_desktop@2x.png)
+![Images of the website](https://github.com/Xvaria/holberton-headphones/blob/main/images/01_headphones_desktop%402x.png)
 
-![Images of the website](https://github.com/Xvaria/holberton-headphones/images/01_headphones_tablet@2x.png)
+![Images of the website](https://github.com/Xvaria/holberton-headphones/blob/main/images/01_headphones_tablet%402x.png)
 
-![Images of the website](https://github.com/Xvaria/holberton-headphones/images/01_headphones_mobile@2x.png)
+![Images of the website](https://github.com/Xvaria/holberton-headphones/blob/main/images/01_headphones_mobile%402x.png)
 
 ## Requirements
 
